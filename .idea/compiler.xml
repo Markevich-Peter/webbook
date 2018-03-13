@@ -26,5 +26,8 @@
         <module name="webbook" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="webbook" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>
